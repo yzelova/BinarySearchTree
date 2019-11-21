@@ -1,0 +1,71 @@
+G:\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.exe.config
+G:\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.exe
+G:\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.pdb
+G:\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeCLI.dll
+G:\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeCLI.pdb
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.csprojResolveAssemblyReference.cache
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\MainWindow.g.cs
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\App.g.cs
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF_MarkupCompile.cache
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF_MarkupCompile.lref
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\MainWindow.baml
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.g.resources
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.Properties.Resources.resources
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.csproj.GenerateResource.Cache
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.exe
+G:\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.pdb
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.csprojResolveAssemblyReference.cache
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\App.g.cs
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF_MarkupCompile.cache
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF_MarkupCompile.lref
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.exe
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.pdb
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.exe.config
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.exe
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.pdb
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeCLI.pdb
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\MainWindow.baml
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.g.resources
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.Properties.Resources.resources
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.csproj.GenerateResource.Cache
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeCLI.dll
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\About.g.cs
+C:\Users\Yoana\Desktop\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\About.baml
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.exe.config
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.exe
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.pdb
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeCLI.dll
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeCLI.pdb
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.csprojResolveAssemblyReference.cache
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\About.g.cs
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\App.g.cs
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF_MarkupCompile.cache
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF_MarkupCompile.lref
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\About.baml
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\MainWindow.baml
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.g.resources
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.Properties.Resources.resources
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.csproj.GenerateResource.Cache
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.exe
+C:\Users\Yoana\Desktop\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.pdb
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.exe.config
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.exe
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeWPF.pdb
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeCLI.dll
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\bin\Debug\BinarySearchTreeCLI.pdb
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.csprojResolveAssemblyReference.cache
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\About.g.cs
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\App.g.cs
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF_MarkupCompile.cache
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF_MarkupCompile.lref
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\About.baml
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\MainWindow.baml
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.g.resources
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.Properties.Resources.resources
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.csproj.GenerateResource.Cache
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.csproj.CoreCompileInputs.cache
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.exe
+C:\Users\Yoana\OneDrive\schoooooooooool\1000 стипендии\портфолио\BinarySearchTree\BinarySearchTreeWPF\obj\Debug\BinarySearchTreeWPF.pdb

@@ -1,0 +1,9 @@
+﻿  Tree.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\yoana\desktop\binarysearchtree\binarysearchtreecpp\main.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\yoana\desktop\binarysearchtree\binarysearchtreecpp\main.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  BinarySearchTreeCpp.vcxproj -> C:\Users\Yoana\Desktop\BinarySearchTree\Debug\BinarySearchTreeCpp.exe
+  BinarySearchTreeCpp.vcxproj -> C:\Users\Yoana\Desktop\BinarySearchTree\Debug\BinarySearchTreeCpp.pdb (Partial PDB)

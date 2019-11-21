@@ -1,0 +1,27 @@
+﻿<Window x:Class="BinarySearchTreeWPF.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BinarySearchTreeWPF"
+        mc:Ignorable="d"
+       Title="За автора" Height="270" Width="500" Name="AboutWindow" Background="Pink">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+
+        </Grid.RowDefinitions>
+        <TextBox IsReadOnly="True" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center" Height="40" Margin="10" Width="472" TextWrapping="Wrap" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+            Генератор на двоично дърво
+        </TextBox>
+        <TextBox IsReadOnly="True" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Height="40" Margin="10" TextWrapping="Wrap" HorizontalContentAlignment="Center" Width="472" VerticalContentAlignment="Center">
+            Относно спецификации, изисквания и инструкции за ползване, прочетете documentation.docx
+        </TextBox>
+        <TextBox IsReadOnly="True" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" Height="40" Margin="10" TextWrapping="Wrap" HorizontalContentAlignment="Center" Width="472" VerticalContentAlignment="Center">
+            Автор: Йоана Зелова, 2017, v. 1.0
+        </TextBox>
+    </Grid>
+</Window>
